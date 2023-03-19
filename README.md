@@ -1,4 +1,4 @@
-<h1>Hi, I'm Pranil!👋🏽 <br/><a href="https://github.com/joshmadakor1">Cloud Engineer</a>, <a href="https://www.linkedin.com/in/pranilprasad">Automation Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Techie</a></h1>
+<h1>Hi, I'm Pranil!👋🏽 <br/><a href="https://github.com/pranilprasad">Cloud Engineer</a>, <a href="https://www.linkedin.com/in/pranilprasad">Automation Professional</a>, <a href="https://www.linkedin.com/in/pranilprasad">DevOps</a></h1>
 
 <h2>🧑🏽‍💻 Cloud Projects:</h2>
 
