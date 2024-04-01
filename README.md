@@ -1,30 +1,26 @@
 <h1>Hi, I'm Pranil!👋🏽 <br/><a href="https://github.com/pranilprasad">Cloud Engineer</a>, <a href="https://www.linkedin.com/in/pranilprasad">Automation Professional</a>, <a href="https://www.linkedin.com/in/pranilprasad">DevOps</a></h1>
 
-<h2>🧑🏽‍💻 Cloud Projects:</h2>
+<h2>🧑🏽‍💻 <h1>Hi, I'm Pranil, an <a href="https://linkedin.com/in/pranilprasad">IT Professional</a></h1>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Bash</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<h2>💻 Information Technology Projects:</h2>
 
-<h2>📄 Certifications</h2>
+- <b>Microsoft Azure</b>
+  - [Inspecting Network Traffic in Azure](https://github.com/ErnestoAPantoja/azure-network-protocols)
+  - [Installing Active Directory in Azure](https://github.com/ErnestoAPantoja/install-ad)
+  - [Configuring Active Directory in Azure](https://github.com/ErnestoAPantoja/configure-ad)
+  - [Understanding DNS in Azure](https://github.com/ErnestoAPantoja/intuition-dns)
+  - [Understanding File Permissions in Azure](https://github.com/ErnestoAPantoja/file-permissions)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/ErnestoAPantoja/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/ErnestoAPantoja/post-install-config)
+  - [osTicket: Resolving Tickets in a Ticketing System](https://github.com/ErnestoAPantoja/ticket-lifecycle)
+- <b>Amazon Web Services (AWS)</b>
+  - [Deploying a Dynamic Website on AWS](https://github.com/ErnestoAPantoja/wordpress-website-aws)
+<h2>🤳Connect with me on LinkedIn:</h2>
 
-- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/f28e0176-614f-4758-af7e-1544d175f4bd/public_url)
-- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/cda8d85a-9375-480c-8732-e60043b5f03c/public_url)
-- [Cisco Certified Network Associates: CCNA](https://www.credly.com/badges/12c8d9da-a9fd-4741-9a43-7cae21b314ea/public_url)
+[<img align="left" alt="Ernesto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<h2> 🤳🏽 Connect with me:</h2>
+[linkedin]: https://linkedin.com/in/ernestopantoja
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
