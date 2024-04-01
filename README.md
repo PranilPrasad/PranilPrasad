@@ -1,6 +1,7 @@
 <h1>Hi, I'm Pranil!👋🏽 <br/><a href="https://github.com/pranilprasad">Cybersecurity Engineer</a>, <a href="https://www.linkedin.com/in/pranilprasad">Automation Professional</a>, <a href="https://www.linkedin.com/in/pranilprasad">Blue Team Defender</a></h1>
 
 <h2>💻 Information Technology Projects:</h2>
+
 - <b>Microsoft Azure</b>
   - [Inspecting Network Traffic in Azure](https://github.com/ErnestoAPantoja/azure-network-protocols)
   - [Installing Active Directory in Azure](https://github.com/ErnestoAPantoja/install-ad)
