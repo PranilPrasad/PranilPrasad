@@ -1,4 +1,4 @@
-<h1>Hi, I'm Pranil!👋🏽 <br/><a href="https://github.com/pranilprasad">Cybersecurity Engineer</a>, <a href="https://www.linkedin.com/in/pranilprasad">Automation Professional</a>, <a href="https://www.linkedin.com/in/pranilprasad">Blue Team Defender</a></h1>
+<h1>Hi, I'm Pranil!👋🏽 <br/><a href="https://github.com/pranilprasad">Cybersecurity Engineer</a>, <a href="https://www.linkedin.com/in/pranilprasad">Automation Professional</a>, <a href="https://www.linkedin.com/in/pranilprasad">Blue Team</a></h1>
 
 <h2>💻 Information Technology Projects:</h2>
 
