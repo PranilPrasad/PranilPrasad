@@ -16,7 +16,7 @@
  
 - <b>Amazon Web Services (AWS)</b>
   - [Deploying a Dynamic Website on AWS](https://github.com/ErnestoAPantoja/wordpress-website-aws)
-<h2>🤳🏽 Connect with me on LinkedIn:https://www.linkedin.com/in/pranilprasad </h2>
+<h2>🤳🏽 Connect with me on LinkedIn: https://www.linkedin.com/in/pranilprasad </h2>
 
 [<img align="left" alt="Ernesto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
