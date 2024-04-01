@@ -7,7 +7,7 @@
   - [Installing Active Directory in Azure](https://github.com/Pranilprasad/install-ad)
   - [Configuring On-Premises Active Directory within Azure VMs](https://github.com/Pranilprasad/configure-ad)
   - [Understanding DNS in Azure](https://github.com/Pranilprasad/intuition-dns)
-  - [Understanding File Permissions in Azure](https://github.com/Pranilprasad/file-permissions)
+  - [Network File Shares and Permissions in Azure](https://github.com/Pranilprasad/file-permissions)
     
 - <b>osTicket (Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Pranilprasad/osticket-prereqs)
