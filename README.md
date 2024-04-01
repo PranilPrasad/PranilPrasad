@@ -3,7 +3,7 @@
 <h2>💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Inspecting Network Traffic in Azure](https://github.com/Pranilprasad/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Pranilprasad/azure-network-protocols)
   - [Installing Active Directory in Azure](https://github.com/Pranilprasad/install-ad)
   - [Configuring On-Premises Active Directory within Azure VMs](https://github.com/Pranilprasad/configure-ad)
   - [Understanding DNS in Azure](https://github.com/Pranilprasad/intuition-dns)
