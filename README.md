@@ -5,7 +5,7 @@
 - <b>Microsoft Azure</b>
   - [Inspecting Network Traffic in Azure](https://github.com/Pranilprasad/azure-network-protocols)
   - [Installing Active Directory in Azure](https://github.com/Pranilprasad/install-ad)
-  - [Configuring Active Directory in Azure](https://github.com/Pranilprasad/configure-ad)
+  - [Configuring On-Premises Active Directory within Azure VMs](https://github.com/Pranilprasad/configure-ad)
   - [Understanding DNS in Azure](https://github.com/Pranilprasad/intuition-dns)
   - [Understanding File Permissions in Azure](https://github.com/Pranilprasad/file-permissions)
     
