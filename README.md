@@ -3,7 +3,7 @@
 <h2>💻 Information Technology Projects:</h2>
 
 - <b>Cybersecurity Projects</b>
-- [Cloud Honeynet + SOC](https://github.com/PranilPrasad/azure-cloud-soc-honeynet)
+  - [Cloud Honeynet + SOC](https://github.com/PranilPrasad/azure-cloud-soc-honeynet)
 
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Pranilprasad/azure-network-protocols)
